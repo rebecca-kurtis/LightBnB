@@ -10,7 +10,11 @@ A simple multi-page Airbnb clone that uses server-side Javascript to display the
 3. In the same directory, start the web server using the `npm run local` command. The app will be served at <http://localhost:3000/>.
 4. Go to <http://localhost:3000/> in your browser.
 
-## 
+## Updating your database
+1. Create a new database in psql with `CREATE DATABASE lighbnb` and connect to the database using `\c lightbnb`
+2. Once connected run `\i migrations/01_schema.sql` to create all tables (make sure that the DROP statements at the top of the file are not commented out). Use `\dt` to confirm that the tables have been created.
+3. To fill the tables with the correct data, run `\i seeds/02_seeds.sql`. It is always good to run a test query to confirm that the data has been inserted properly.
+4. You are ready to use the LighBnB webpage!
 
 ## Dependencies
 
