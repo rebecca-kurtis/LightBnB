@@ -21,11 +21,9 @@ A simple multi-page Airbnb clone that uses server-side Javascript to display the
 - Nodemon
 - pg
 
-- Express
-- Node 5.10.x or above
-- Body-parser
-- Chance
-- md5
+https://user-images.githubusercontent.com/112522559/215241819-8ef849e2-83fc-4d1b-8d16-83ddb4cacb28.mp4
+
+
 
 ## Screenshots
 
