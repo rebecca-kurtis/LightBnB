@@ -25,17 +25,18 @@ A simple multi-page Airbnb clone that uses server-side Javascript to display the
 - Nodemon
 - pg
 
+## How to use LightBnB Webpage
 https://user-images.githubusercontent.com/112522559/215241819-8ef849e2-83fc-4d1b-8d16-83ddb4cacb28.mp4
 
 
 
 ## Screenshots
 
-Screenshot of Main Page with a viewpoint greater than 1024px:
-!["Screenshot of Main Page with a viewpoint greater than 1024px"](https://github.com/rebecca-kurtis/tweeter/blob/master/docs/Screenshot%202023-01-07%20at%205.50.27%20PM.png)
+Screenshot of Entity Relationship Diagram:
+!["Screenshot of Entity Relationship Diagram"](https://github.com/rebecca-kurtis/LightBnB/blob/main/docs/Screenshot%202023-01-27%20at%208.36.08%20PM.png)
 
-Screenshot of Main Page with a viewpoint less than 1024px:
-!["Screenshot of Main Page with a viewpoint less than 1024px"](https://github.com/rebecca-kurtis/tweeter/blob/master/docs/Screenshot%202023-01-07%20at%205.50.39%20PM.png)
+Screenshot of Home Page with all properties:
+!["Screenshot of Home Page with all properties"](https://github.com/rebecca-kurtis/LightBnB/blob/main/docs/Screenshot%202023-01-27%20at%208.01.45%20PM.png)
 
-Screenshot of error occuring when trying to submit an empty tweet:
-!["Screenshot of error occuring when trying to submit an empty tweet"](https://github.com/rebecca-kurtis/tweeter/blob/master/docs/Screenshot%202023-01-07%20at%205.51.31%20PM.png)
+Screenshot of logged in user's listings:
+!["Screenshot of logged in user's listings:"](https://github.com/rebecca-kurtis/LightBnB/blob/main/docs/Screenshot%202023-01-27%20at%208.02.09%20PM.png)
